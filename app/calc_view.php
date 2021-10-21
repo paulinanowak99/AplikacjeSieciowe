@@ -15,6 +15,7 @@
 	<label for="id_y">Oprocentowanie: </label>
 	<input id="id_interest" type="text" name="interest" /><br />
 	<input type="submit" value="Oblicz" />
+    sadasa
 </form>	
 
 <?php
